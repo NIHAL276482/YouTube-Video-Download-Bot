@@ -1,6 +1,6 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/YouTube-Video-Download-Bot
+# UNKNOWN YT| @ILOVETHATBREATHS | Sk and tnt | 
 
-# [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/YouTube-Video-Download-Bot
+# [⚠️ Do not change this repo link ⚠️] :- 
 
 
 
@@ -10,9 +10,9 @@ from Youtube.config import Config
 # Create a Pyrogram client
 app = Client(
     "my_bot",
-    api_id=Config.API_ID, 
-    api_hash=Config.API_HASH, 
-    bot_token=Config.BOT_TOKEN,
+    api_id=Config.28668719, 
+    api_hash=Config.f55a34ede55fae170c2d89a782d06cdb, 
+    bot_token=Config.8011240970:AAHazVuPwHd-a5AljyDdjj1om1Tn0Mo1OtI,
     plugins=dict(root="Youtube")
 )
 
